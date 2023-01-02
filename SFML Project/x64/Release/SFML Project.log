@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML Project.vcxproj -> C:\Users\91639\Desktop\SFML Project\SFML Project\x64\Release\SFML Project.exe
